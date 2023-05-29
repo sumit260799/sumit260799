@@ -1,4 +1,4 @@
-![logo](https://github.com/sumit260799/sumit260799/blob/main/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner%20(1).png)
+<!-- ![logo](https://github.com/sumit260799/sumit260799/blob/main/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner%20(1).png) -->
 <h1 align="center">Hi 👋, I'm Sumit Das</h1>
 <h3 align="center" height="300px">#coding#development#editing</h3>
 <img align="right" alt="Coding" height="250" width="400" src="https://www.sugunakarphp.in/themes/images/home-profile-img.gif">
